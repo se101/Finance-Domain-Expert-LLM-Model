@@ -1,9 +1,9 @@
-# Finance-Domain-Expert-LLM-Model
+# Finance-Domain-Expert-LLM-Model : Generative AI with AWS
 Proof of concept (POC) for a domain expert model: 
 
 This model will be trained on a dataset of domain-specific knowledge in finance.
 
-## Training and Fine-Tuning a Large Language Model: 
+## Training and Fine-Tuning a Large Language Model on AWS: 
 
     Meta Llama 2 7B foundation model Ver 1.0.0
 
