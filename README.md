@@ -1,4 +1,4 @@
-# Finance-Domain-Expert-LLM-Model : Generative AI with AWS
+# Finance-Domain-Expert-LLM-Model: Generative AI with AWS
 Proof of concept (POC) for a domain expert model: 
 
 This model will be trained on a dataset of domain-specific knowledge in finance.
@@ -40,6 +40,8 @@ This model will be trained on a dataset of domain-specific knowledge in finance.
     AWS SageMaker (Python SDK and boto3, JumpStartModel, JumpStartEstimator)
     
     AWS Rekognition
+
+    AWS EC2 
     
     AWS S3 (s3://genaiwithawsproject2024/training-datasets/finance)
     
